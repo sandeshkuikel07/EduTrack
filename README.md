@@ -16,10 +16,6 @@ A web application for managing student applications for higher education. Admins
 ```
 EduTrack/
 ├── backend/
-│   ├── __pycache__/
-│   ├── instance/
-│   ├── uploads/
-│   ├── venv/
 │   ├── .gitignore
 │   ├── app.py
 │   ├── models.py
