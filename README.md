@@ -27,10 +27,7 @@ EduTrack/
 ├── frontend/
 │   ├── node_modules/
 │   ├── public/
-│   ├── src/
-│   ├── .gitignore
-│   ├── package-lock.json
-│   └── package.json
+│   └── src/
 └── .gitignore
 ```
 
